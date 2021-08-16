@@ -1,4 +1,11 @@
-### Hi there 👋
+### Ficha de Personagem
+
+Nome: Jeff
+Classe: Dev .NET
+Nível: Jr
+
+(em construção)
+
 
 <!--
 **fergo8/fergo8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
