@@ -1,8 +1,8 @@
 ### Ficha de Personagem
 
-Nome: Jeff &nbsp;
-Classe: Dev .NET &nbsp;
-Nível: Jr &nbsp;
+Nome: Jeff  
+Classe: Dev .NET  
+Nível: Jr  
 
 (em construção)
 
