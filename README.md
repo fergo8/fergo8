@@ -4,6 +4,18 @@ Nome: Jeff
 Classe: Dev .NET  
 Nível: Jr  
 
+Atributos  | Pontos
+---------- | ---------
+C#/.NET    | :star2: :star2: :star2: :star2: :black_circle:
+JavaScript | :star2: :star2: :star2: :black_circle: :black_circle:
+HTML/CSS   | :star2: :star2: :star2: :black_circle: :black_circle:
+T-SQL      | :star2: :star2: :star2: :black_circle: :black_circle:
+AngularJS  | :star2: :black_circle: :black_circle: :black_circle: :black_circle:
+
+### Habilidades
+
+
+
 (em construção)
 
 
