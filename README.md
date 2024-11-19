@@ -1,31 +1,28 @@
-### Olá, eu sou o Jeff!
+### -->> Olá, eu sou o Jeff!
 
-Ultimamente tenho desenvolvido sistemas em C#/.NET para o setor de seguros.  
-Curto muito estudar coisas novas, dentro e fora da tecnologia.
+Atuo como dev desde 2019 e sigo aprendendo a cada dia.  
+Curto muito estudar coisas novas, dentro e fora da tecnologia.  
 
-### Minha Stack
+#### Assuntos da semana:  
+* No momento nenhum, estou organizando os próximos assuntos a serem estudados 😉
+
+##
+
+### -->> Minhas Stacks
 
 <div style="display: inline_block">
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="DotNet" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
+  <img align="center" alt="VisualStudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
+  <img align="center" alt="Swagger" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" />
+  <span> || </span>
+  <img align="center" alt="NodeJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="NPM" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" />
+  <img align="center" alt="VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+  <img align="center" alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
+  <span> || </span>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Subversion" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/subversion/subversion-original.svg">
-  <img align="center" alt="Tortoise" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tortoisegit/tortoisegit-original.svg">
+  <img align="center" alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
 </div>
-
-##
-
-<br />
-<div>
-  <a href="https://github.com/fergo8">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fergo8&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fergo8&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
-### Adicione-me nas suas redes sociais
-
-<a href="https://www.twitter.com/jffgomes" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
-<a href="https://www.linkedin.com/in/jffgomes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href = "mailto:jefferson.g.silva8@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
