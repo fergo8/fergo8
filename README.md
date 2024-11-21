@@ -4,7 +4,10 @@ Atuo como dev desde 2019 e sigo aprendendo a cada dia.
 Curto muito estudar coisas novas, dentro e fora da tecnologia.  
 
 #### Assuntos da semana:  
-* No momento nenhum, estou organizando os próximos assuntos a serem estudados 😉
+* Funcionamento da JVM
+* Tipos de variáveis em Java
+* Tratamento de erros em Java
+* Funções em Java
 
 ##
 
