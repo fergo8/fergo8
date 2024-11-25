@@ -4,10 +4,9 @@ Atuo como dev desde 2019 e sigo aprendendo a cada dia.
 Curto muito estudar coisas novas, dentro e fora da tecnologia.  
 
 #### Assuntos da semana:  
-* Funcionamento da JVM
-* Tipos de variáveis em Java
-* Tratamento de erros em Java
-* Funções em Java
+* Terminar o cursinho de Java básico que estou fazendo
+* Estudar a JDA (Java Discord API)
+* Planejar a implementação de um novo módulo no [DevHelper](https://github.com/MyCoffeToCode/DevHelper)
 
 ##
 
