@@ -4,9 +4,10 @@ Atuo como dev desde 2019 e sigo aprendendo a cada dia.
 Curto muito estudar coisas novas, dentro e fora da tecnologia.  
 
 #### Assuntos da semana:  
-* Entender conceitos de POO em Java
-* Estudar a JDA (Java Discord API)
-* Implementar o comando /adicionar-curso no [DevHelper](https://github.com/MyCoffeToCode/DevHelper)
+* Aprender Spring Boot
+* Estudar como funciona Dockerfile
+* Fazer o desafio de dezembro da comunidade StarCode
+* Terminar implementação o comando /adicionar-curso no [DevHelper](https://github.com/MyCoffeToCode/DevHelper)
 
 ##
 
