@@ -4,10 +4,8 @@ Atuo como dev desde 2019 e sigo aprendendo a cada dia.
 Curto muito estudar coisas novas, dentro e fora da tecnologia.  
 
 #### Assuntos da semana:  
-* Aprender Spring Boot
-* Estudar como funciona Dockerfile
-* Fazer o desafio de dezembro da comunidade StarCode
-* Terminar implementação o comando /adicionar-curso no [DevHelper](https://github.com/MyCoffeToCode/DevHelper)
+* Essa semana eu vou focar mais nas leituras literárias que estão um pouco atradasas
+* Ainda tenho que fazer o desafio de dezembro da comunidade StarCode
 
 ##
 
