@@ -4,8 +4,10 @@ Atuo como dev desde 2019 e sigo aprendendo a cada dia.
 Curto muito estudar coisas novas, dentro e fora da tecnologia.  
 
 #### Assuntos da semana:  
-* Essa semana eu vou focar mais nas leituras literárias que estão um pouco atrasadas
-* Ainda tenho que fazer o desafio de dezembro da comunidade StarCode
+* Segunda: Terminar o desafio 01 da StarCode
+* Terça e Quarta: Festas de final de ano (Feliz ano novo, galera!)
+* Quinta e Sexta: Quero começar um curso de dev web que peguei esses dias
+* Sábado e Domingo: Tem sessão de RPG com os amigos
 
 ##
 
