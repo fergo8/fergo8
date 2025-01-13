@@ -4,9 +4,8 @@ Atuo como dev desde 2019 e sigo aprendendo a cada dia.
 Curto muito estudar coisas novas, dentro e fora da tecnologia.  
 
 #### Assuntos da semana:  
-* Essa semana vou começar um curso de web que comprei no Natal;
-* Quero realizar ajustes no projeto do DevHelper;
-* E escrever um post sobre Scrum para meu blog novo.
+* Seguir com o curso de dev web (estou revisando HTML semântico);
+* Escrever novos posts para o blog.
 
 ##
 
