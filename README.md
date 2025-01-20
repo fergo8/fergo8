@@ -4,7 +4,7 @@ Atuo como dev desde 2019 e sigo aprendendo a cada dia.
 Curto muito estudar coisas novas, dentro e fora da tecnologia.  
 
 #### Assuntos da semana:  
-* Seguir com o curso de dev web (estou revisando HTML semântico);
+* Seguir com o curso de dev web (estou revisando CSS);
 * Escrever novos posts para o blog.
 
 ##
